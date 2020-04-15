@@ -1,3 +1,4 @@
 node_modules
 localLog.txt
 yarn.lock
+index.js
