@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "koa": "^2.11.0",
+    "koa-router": "^8.0.8",
+    "koa2-cors": "^2.0.6",
+    "node-fetch": "^2.6.0"
+  }
+}
