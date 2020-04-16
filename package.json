@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "dev": "node index-obfuscated.js",
+    "start": "node index-obfuscated.js"
+  },
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "koa": "^2.11.0",
